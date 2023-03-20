@@ -1,0 +1,15 @@
+D:\Tugas1\Tugas1\Tugas1\Tugas1\bin\Debug\net6.0\Tugas1.exe
+D:\Tugas1\Tugas1\Tugas1\Tugas1\bin\Debug\net6.0\Tugas1.deps.json
+D:\Tugas1\Tugas1\Tugas1\Tugas1\bin\Debug\net6.0\Tugas1.runtimeconfig.json
+D:\Tugas1\Tugas1\Tugas1\Tugas1\bin\Debug\net6.0\Tugas1.dll
+D:\Tugas1\Tugas1\Tugas1\Tugas1\bin\Debug\net6.0\Tugas1.pdb
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.csproj.AssemblyReference.cache
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.AssemblyInfoInputs.cache
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.AssemblyInfo.cs
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.csproj.CoreCompileInputs.cache
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.dll
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\refint\Tugas1.dll
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.pdb
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\Tugas1.genruntimeconfig.cache
+D:\Tugas1\Tugas1\Tugas1\Tugas1\obj\Debug\net6.0\ref\Tugas1.dll
